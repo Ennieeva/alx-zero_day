@@ -1,1 +1,1 @@
-My second readme
+The journey of ALX software engineering
